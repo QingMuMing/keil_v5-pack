@@ -1,0 +1,7 @@
+官方没有提供版本5的包下载
+
+
+keil包查看，打开pack install右侧边栏。
+
+添加pack
+	file->import->选择下载好的包
